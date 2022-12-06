@@ -1,0 +1,136 @@
+.img{
+    width: 150px;
+    height: 100px;
+}
+#go{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    color:brown;
+}
+#gool{
+    background-color: brown;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+#gool:hover{
+    background-color: gray;
+    color: brown;
+}
+.bgimg1{
+    background-image: url("https://th.bing.com/th/id/OIP.SHpHP2foCXo9b12K3bRzDwHaEK?pid=ImgDet&rs=1");
+    background-size: cover;
+    height: 100vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25x;
+    font-weight: 300;
+}
+.buttonst{
+    color: white;
+    background-color: #eb3434;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgimg2{
+    background-color: white;
+}
+.head2{
+    color: rgb(0, 255, 55);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.para2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e534eb;
+    border-radius: 16px;
+}
+.cardimg{
+    width: 85px;
+    height: 90px;
+}
+.chead{
+    color: #9c34eb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.offers{
+    color: black;
+    font-style: italic;
+    font-weight: 600;
+}
+.carding :hover{
+    background-color:rgb(83, 128, 0);
+    color:black;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#contact{
+    background-color: grey;
+    padding-bottom: 4rem;
+}
+.socialicons{
+    font-size: 40px;
+    cursor: pointer;
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.fa-square-facebook,.fa-instagram,.fa-linkedin,.fa-youtube{
+    margin: 40px;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-square-facebook:hover,.fa-linkedin:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: rgb(243, 16, 175);
+}
+
+
+
+ 
+                    
